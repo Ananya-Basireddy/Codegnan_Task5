@@ -1,7 +1,4 @@
-# "Simple Weather Application"
+# Codegnan_Task4 (160121737142_Ananya Basireddy)
+Task4(18th June): A Simple Weather Application made by using HTML, CSS &amp; JavaScript.
 
-## Overview of Weather App
-
-It's a  Simple Weather Application made by using HTML, CSS &amp; JavaScript.
-
-Live Demo:  https://prince-shivaram.github.io/Simple-Weather-App/
+Live Demo:
